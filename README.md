@@ -5,7 +5,7 @@ La Inteligencia Artificial (IA) es uno de los componentes reconocidos por su pot
 
 Si utiliza nuestro proyecto para su investigación o si encuentra este documento y el repositorio útiles, por favor considere citar el trabajo.
 
-Cite el repositorio: [![DOI](https://zenodo.org/badge/500692485.svg)](https://zenodo.org/badge/latestdoi/500692485) 
+Cite el repositorio: [![DOI](https://zenodo.org/badge/501489594.svg)](https://zenodo.org/badge/latestdoi/501489594)
 
 ## Carpetas
 
