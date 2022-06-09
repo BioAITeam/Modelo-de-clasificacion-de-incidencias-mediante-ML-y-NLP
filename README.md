@@ -10,7 +10,7 @@ Cite el repositorio: [![DOI](https://zenodo.org/badge/501489594.svg)](https://ze
 ## Carpetas
 
 - **Data** carpeta que contiene las bases de datos entregadas por SIGMA Ingeniería S.A que pertenecen a los datos almacenados en Timework por el área de soporte y servicio al cliente de la empresa.
-- **Notebook** carpeta que contiene el algoritmos de ocho técnicas de ML aplicados a las bases de datos de Timework mediante los cuatro experimentos propuestos en la tesis 
+- **Notebook** carpeta que contiene el algoritmos de ocho técnicas de ML aplicados a las bases de datos de Timework mediante los cuatro experimentos propuestos en la tesis. 
 
 
 ## Pre-requisitos
